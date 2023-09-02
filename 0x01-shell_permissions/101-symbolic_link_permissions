@@ -1,0 +1,2 @@
+#!/bin/bash
+[ -L "_hello" ] && sudo chown vincent:staff _hello
