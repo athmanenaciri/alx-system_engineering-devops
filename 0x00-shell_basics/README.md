@@ -17,6 +17,10 @@ This folder contains a series of shell scripts designed to enhance your shell sk
 13. `12-file_type`: Print the type of the file named iamafile.
 14. `13-symbolic_link`: Create a symbolic link to /bin/ls named __ls__ in the current directory.
 15. `14-copy_html`: Copy HTML files to the parent directory if newer or non-existent.
-
+16. `100-lets_move`: Move files beginning with an uppercase letter to /tmp/u.
+17. `101-clean_emacs`: Delete files ending with the character ~ in the current directory.
+18. `102-tree`: Create directories welcome/, welcome/to/, and welcome/to/school in the current directory.
+19. `103-commas`: List files and directories separated by commas with specific sorting rules.
+20. `school.mgc`: Create a magic file to detect School data files.
 Each script contributes to specific learning objectives, enhancing your shell scripting skills.
 
