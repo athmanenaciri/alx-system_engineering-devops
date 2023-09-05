@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(echo "$WATER" | tr -d -c 'w' | wc -c)$(echo "$STIR" | tr -d -c 't' | wc -c)" | bc | tr '0-9A-F' 'a-p'
